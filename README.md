@@ -1,4 +1,5 @@
-**Technologies** 
+**Technologies**
+
 Dependency injection: Koin 
 Network manager: Fuel 
 UI: Compose 
