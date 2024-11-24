@@ -1,4 +1,4 @@
-package com.ponomarenko.skeleton.ui.theme
+package com.ponomarenko.skeleton.infrastructure.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

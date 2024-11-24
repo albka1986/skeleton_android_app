@@ -1,6 +1,5 @@
-package com.ponomarenko.skeleton.ui.theme
+package com.ponomarenko.skeleton.infrastructure.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
