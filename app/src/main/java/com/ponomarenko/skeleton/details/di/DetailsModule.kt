@@ -1,14 +1,14 @@
-package com.ponomarenko.skeleton.dashboard.di
+package com.ponomarenko.skeleton.details.di
 
-import com.ponomarenko.skeleton.dashboard.ui.DashboardViewModel
+import com.ponomarenko.skeleton.details.ui.DetailsViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 
-object DashboardModule {
+object DetailsModule {
 
     val module = module {
         viewModel {
-            DashboardViewModel(
+            DetailsViewModel(
                 apiGateway = get()
             )
         }
